@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+body {
+  background-color: #bdd0d9 !important;
+
+
+  
+
+}
+body {
+  font-family: 'Poppins', sans-serif; /* Set Poppins as the default font for the entire app */
+}
+
+/* You can also target other elements if needed */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+::-webkit-scrollbar {
+  width: 3.5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #464b50;
+}

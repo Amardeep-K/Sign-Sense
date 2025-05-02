@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3f3db51.css",
+    "main.js": "/static/js/main.81a36a6b.js",
+    "static/media/answer-call.gif": "/static/media/answer-call.f31abfda86f4013c855a.gif",
+    "static/media/ringtone.ogg": "/static/media/ringtone.f43ffde3a9ec920cde0e.ogg",
+    "static/media/team.webp": "/static/media/team.192f518229380bce1bf4.webp",
+    "static/media/logo.png": "/static/media/logo.e741f432d1ca34e927ad.png",
+    "static/media/notification.mp3": "/static/media/notification.f6c2636c9ce2d4a4d91a.mp3",
+    "index.html": "/index.html",
+    "main.e3f3db51.css.map": "/static/css/main.e3f3db51.css.map",
+    "main.81a36a6b.js.map": "/static/js/main.81a36a6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f3db51.css",
+    "static/js/main.81a36a6b.js"
+  ]
+}

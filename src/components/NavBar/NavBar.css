@@ -1,0 +1,33 @@
+.blue-strip {
+    background: linear-gradient(90deg, #003c8f, #1e88e5 120%);
+    color: white;
+    padding: 10px ;
+    text-align: center;
+   
+    font-size:10px;
+  }
+  
+.nav-bar {
+    background-color: #121212 !important;
+  }
+  
+  .logo-image {
+    height: 32px;
+  }
+  
+  
+  
+  .navbar-actions i {
+    font-size: 1.2rem;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .user-icon {
+    font-size: 1.5rem;
+  }
+  
+  .theme-toggle-icon {
+    font-size: 1.3rem;
+  }
+  
